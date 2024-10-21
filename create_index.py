@@ -40,7 +40,7 @@ def build_faiss_index(embedding_matrix):
 
 
 # ドキュメントデータの読み込み
-dbname = 'scraped_data_without_tag_20241017.db'
+dbname = 'data/dbname.db'
 conn = sqlite3.connect(dbname)
 cur = conn.cursor()
 
