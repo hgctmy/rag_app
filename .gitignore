@@ -1,0 +1,17 @@
+__pycache__
+eval_results
+log
+rag
+results
+bm25_model.pkl
+conduct_test.py
+config.json
+documents_with_id.pkl
+documents.pkl
+eval.py
+faiss_index_file.index
+sample.csv
+scraped_data_without_tag_20241017.db
+scraped_data_without_tag.db
+test_post.py
+tokenized_doc.pkl
